@@ -9,7 +9,7 @@
   3.4 git push origin main
 4. Una vez procesados los cambios, cerrar terminal
 
-# Guía para actualización a repositorio remoto
+# Guía para actualización a repositorio en local
 
 1. Entrar a la carpeta vinculada "Git-Open-Market"
 2. Click derecho y seleccionar Git Bush
